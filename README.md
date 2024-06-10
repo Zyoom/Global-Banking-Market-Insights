@@ -39,7 +39,7 @@ cd global-banking-market-insights
 # Running the Project
 To run the project, execute the following command:
 ```bash
-python main.py
+python banks_project.py
 ```
 
 ## Usage
