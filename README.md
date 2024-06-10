@@ -30,7 +30,7 @@ pip install numpy pandas beautifulsoup4
 ## Installation
 Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/your_username/global-banking-market-insights.git
+git clone https://github.com/Zyoom/Global-Banking-Market-Insights.git
 ```
 # Navigate to the project directory:
 ```bash
